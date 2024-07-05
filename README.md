@@ -1,18 +1,58 @@
-# 🏗️ Create a Webpage Using HTML
+# 🏗️ Student Bio
+      This is a simple HTML webpage that displays a student's biography, including their     
+ contact information. The page is structured using semantic HTML elements to improve 
+ readability and accessibility.
 
-I am Write Work with a partner to implement the following user story:
+* Table of Contents
+* Overview
+* HTML Structure
+* Sections
+* Header
+* Bio
+* Contact Info
+* Usage
+* Contributing
+* License
 
-* As a student, I want to create a biography page that includes an image, a paragraph about me, and my contact information.
+  ## Overview
+      The Student Bio HTML file is designed to provide a brief biography of a student along      with their contact information. This can be used as a template for creating personal     
+  profiles   or portfolios.
 
-## Acceptance 
+# HTML 
+  The HTML file is structured as follows:
 
-*  when the main header reads "Student Bio".
+* <!DOCTYPE html>: Defines the document type and version of HTML.
+* <html lang="en-US">: Root element with language attribute set to English (US).
+* <head>: Contains meta-information about the document (character set and title).
+* <body>: Contains the content of the document.
 
-* when there is a section that includes a name, an image, and a paragraph abouth me.
+# Sections
+## Header
+   The header section includes the main heading of the page.
 
-* when there is a second section that includes a subheader labeled "Contact Info" and a list that includes links to my email, GitHub, and portfolio.
+# Bio
+   This section provides a brief biography of the student. It includes a secondary heading, an 
+   image, and a paragraph.
 
-* It's done when the finished page matches the mockup.
+# Contact Info
+  The contact information section includes an unordered list with the student's email, GitHub 
+  profile, and portfolio link.
+
+# Usage
+  To use this HTML template:
+
+1. Download the HTML file.
+2. Open it in a text editor to replace the placeholder text with your own information.
+3. Save the changes and open the file in a web browser to view your bio.
+
+# Contributing
+If you would like to contribute to this project, please fork the repository and submit a pull request with your changes. Ensure that your code follows the existing style and structure.
+
+# License
+This project is licensed under the MIT License. See the LICENSE file.
+
+
+
 
 
 
